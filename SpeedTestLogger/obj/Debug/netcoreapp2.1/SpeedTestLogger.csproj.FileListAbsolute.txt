@@ -1,0 +1,11 @@
+/Users/jis/az-speedtest-logger/SpeedTestLogger/bin/Debug/netcoreapp2.1/SpeedTestLogger.deps.json
+/Users/jis/az-speedtest-logger/SpeedTestLogger/bin/Debug/netcoreapp2.1/SpeedTestLogger.runtimeconfig.json
+/Users/jis/az-speedtest-logger/SpeedTestLogger/bin/Debug/netcoreapp2.1/SpeedTestLogger.runtimeconfig.dev.json
+/Users/jis/az-speedtest-logger/SpeedTestLogger/bin/Debug/netcoreapp2.1/SpeedTestLogger.dll
+/Users/jis/az-speedtest-logger/SpeedTestLogger/bin/Debug/netcoreapp2.1/SpeedTestLogger.pdb
+/Users/jis/az-speedtest-logger/SpeedTestLogger/obj/Debug/netcoreapp2.1/SpeedTestLogger.csprojAssemblyReference.cache
+/Users/jis/az-speedtest-logger/SpeedTestLogger/obj/Debug/netcoreapp2.1/SpeedTestLogger.csproj.CoreCompileInputs.cache
+/Users/jis/az-speedtest-logger/SpeedTestLogger/obj/Debug/netcoreapp2.1/SpeedTestLogger.AssemblyInfoInputs.cache
+/Users/jis/az-speedtest-logger/SpeedTestLogger/obj/Debug/netcoreapp2.1/SpeedTestLogger.AssemblyInfo.cs
+/Users/jis/az-speedtest-logger/SpeedTestLogger/obj/Debug/netcoreapp2.1/SpeedTestLogger.dll
+/Users/jis/az-speedtest-logger/SpeedTestLogger/obj/Debug/netcoreapp2.1/SpeedTestLogger.pdb
